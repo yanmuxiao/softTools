@@ -1,0 +1,32 @@
+
+http://charles.iiilab.com/
+本站会持续更新Charles最新版破解注册方法, 建议加入收藏
+
+# 当前最新版
+
+Charles 4.2
+
+下载Charles v4.2 并安装
+云盘下载: Mac OS X Windows 64 bit Windows 32 bit
+官网下载: 前往官网下载
+安装后先打开Charles一次（Windows版可以忽略此步骤）
+下载破解文件 charles.jar
+替换掉原文件夹里的charles.jar
+Mac: /Applications/Charles.app/Contents/Java/charles.jar
+Windows: C:\Program Files\Charles\lib\charles.jar
+完成!
+# 更早的版本
+
+v4.1.4
+Charles 4.1.3
+v4.1.2
+v4.1.1
+v4.1
+v4.0.2
+下载Charles v4.1.3 并安装: Mac OS X Windows 64 bit Windows 32 bit
+安装后先打开Charles一次（Windows版可以忽略此步骤）
+下载破解文件 charles.jar
+替换掉原文件夹里的charles.jar
+Mac: /Applications/Charles.app/Contents/Java/charles.jar
+Windows: C:\Program Files\Charles\lib\charles.jar
+完成!
